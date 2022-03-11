@@ -1,0 +1,23 @@
+.component{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+
+}
+.heading{
+    color: #14213d;
+    font-size: 5vw;
+}
+.btn{
+    padding: 1%;
+    border-radius: 50%;
+    background-color: #e5e5e5;
+    width: 13%;
+    height: 15vw;
+    font-size: 9vw;
+}
+.span{
+    font-size: 5vw;
+    padding: 5vw;
+}
